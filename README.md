@@ -5,9 +5,12 @@ Fusion prediction approach of dataset and pathological images
 # prepare
 1. WSI_Score: Output from clam-model
 
-  Reference: https://github.com/mahmoodlab/CLAM
+   Reference: https://github.com/mahmoodlab/CLAM
 
-2. clinicopathological features
+   The usage of CLAM Model are also described in other repository 
+   https://github.com/epocaipath/Annot-CLAM-CycleGAN 
+
+3. clinicopathological features
 
  Combine these information and make a CSV file
 
