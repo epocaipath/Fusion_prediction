@@ -32,4 +32,4 @@ RF and SVM methods use Grid search for the parametor
 This code is made available under the GPLv3 License and is available for non-commercial academic purposes.
 
 ## Reference
-This Github is modified from the codes at https://github.com/ayukat1016/gan_sample
+CLAM model https://github.com/mahmoodlab/CLAM
